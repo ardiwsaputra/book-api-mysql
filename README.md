@@ -1,4 +1,4 @@
-## Starter Express API Template with Sequilize CLI, Auth, and Role Access
+## Starter Express API Template with Sequilize CLI
 
 ## CLI:
 #### Start with Nodemon
